@@ -1,2 +1,4 @@
-package com.springrestclientdemo.springbootrestdemo;public class TestJavaClass {
+package com.springrestclientdemo.springbootrestdemo;
+
+public class TestJavaClass {
 }
